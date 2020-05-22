@@ -1,0 +1,37 @@
+#rootPane {
+    /* -fx-background-color: skyblue,derive(skyblue, 25%); */
+    -fx-background-image: url("../images/main_background.jpg");
+    -fx-background-repeat: no-repeat no-repeat;
+    -fx-background-size: stretch;
+    background-color:coral; 
+}
+
+.userTextfield{
+    -fx-background: transparent;
+    -fx-background-opacity:0.5;
+    -fx-background-color : #ffffff;
+    -fx-opacity: 0.7;
+    -fx-font-size: 24px;
+    -fx-font: normal normal bold 24px/0 "Trebuchet MS", Helvetica, sans-serif;
+    -fx-prompt-text-fill: lightslategrey;
+    -fx-text-fill: #660047;
+    -fx-text-decoration: #660047;
+    -fx-caret-color: transparent;
+}
+
+#securityQ{
+    -fx-background: transparent;
+    -fx-background-color : #ffffff;
+    -fx-background-opacity:0.5;
+    -fx-opacity: 0.7;
+    -fx-font-size: 24px;
+    -fx-font: normal normal bold 20px/0 "Trebuchet MS", Helvetica, sans-serif;
+    -fx-prompt-text-fill: lightslategrey;
+    -fx-text-fill: #660047;
+    -fx-text-decoration: #660047;
+    -fx-caret-color: transparent;
+}
+
+#signUpbutton{
+    
+}
